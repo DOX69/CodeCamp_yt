@@ -1,0 +1,12 @@
+name,age,experience,salary,departments,job
+Roger,24.0,2.0,24000.0,Data,Product Owner
+Marie,40.0,10.0,40000.0,Customer relationship,Manager
+Fatima,47.0,7.0,80000.0,sales,Acquisition
+Alex,26.0,3.0,38000.0,Data,Data analyst
+sunny,24.0,2.0,,Communication,Media buyer
+Robert,50.0,,,Customer relationship,Call agent
+Amandine,,5.0,,,
+Armine,,,,Sales,Manager
+Rico,43.0,7.0,55600.0,,Software engineer
+Zoé,20.0,0.0,25000.0,HR,Assitant
+Fanny,48.0,12.0,70100.0,IT,Head hardware manager
